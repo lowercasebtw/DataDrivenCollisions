@@ -1,0 +1,146 @@
+{
+  "facing=north,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=north,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=east,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=east,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=south,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=south,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=west,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=west,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=up,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=up,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=down,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "facing=down,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

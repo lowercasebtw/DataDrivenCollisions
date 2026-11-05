@@ -1,0 +1,194 @@
+{
+  "facing=north,mode=compare,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=north,mode=compare,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=north,mode=subtract,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=north,mode=subtract,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=south,mode=compare,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=south,mode=compare,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=south,mode=subtract,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=south,mode=subtract,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=west,mode=compare,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=west,mode=compare,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=west,mode=subtract,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=west,mode=subtract,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=east,mode=compare,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=east,mode=compare,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=east,mode=subtract,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "facing=east,mode=subtract,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  }
+}

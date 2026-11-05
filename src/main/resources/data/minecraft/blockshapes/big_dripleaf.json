@@ -1,0 +1,290 @@
+{
+  "facing=north,tilt=none,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=north,tilt=none,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=north,tilt=unstable,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=north,tilt=unstable,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=north,tilt=partial,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=north,tilt=partial,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=south,tilt=none,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=south,tilt=none,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=south,tilt=unstable,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=south,tilt=unstable,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=south,tilt=partial,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=south,tilt=partial,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=west,tilt=none,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=west,tilt=none,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=west,tilt=unstable,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=west,tilt=unstable,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=west,tilt=partial,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=west,tilt=partial,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=east,tilt=none,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=east,tilt=none,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=east,tilt=unstable,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=east,tilt=unstable,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.9375,
+      1.0
+    ]
+  },
+  "facing=east,tilt=partial,waterlogged=true": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  },
+  "facing=east,tilt=partial,waterlogged=false": {
+    "min": [
+      0.0,
+      0.6875,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.8125,
+      1.0
+    ]
+  }
+}

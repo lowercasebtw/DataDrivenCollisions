@@ -1,0 +1,146 @@
+{
+  "orientation=down_east": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=down_north": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=down_south": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=down_west": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=up_east": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=up_north": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=up_south": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=up_west": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=west_up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=east_up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=north_up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "orientation=south_up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

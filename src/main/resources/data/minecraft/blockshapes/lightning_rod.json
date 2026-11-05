@@ -1,0 +1,290 @@
+{
+  "facing=north,powered=true,waterlogged=true": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=north,powered=true,waterlogged=false": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=north,powered=false,waterlogged=true": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=north,powered=false,waterlogged=false": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=east,powered=true,waterlogged=true": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=east,powered=true,waterlogged=false": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=east,powered=false,waterlogged=true": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=east,powered=false,waterlogged=false": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=south,powered=true,waterlogged=true": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=south,powered=true,waterlogged=false": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=south,powered=false,waterlogged=true": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=south,powered=false,waterlogged=false": {
+    "min": [
+      0.375,
+      0.375,
+      0.0
+    ],
+    "max": [
+      0.625,
+      0.625,
+      1.0
+    ]
+  },
+  "facing=west,powered=true,waterlogged=true": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=west,powered=true,waterlogged=false": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=west,powered=false,waterlogged=true": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=west,powered=false,waterlogged=false": {
+    "min": [
+      0.0,
+      0.375,
+      0.375
+    ],
+    "max": [
+      1.0,
+      0.625,
+      0.625
+    ]
+  },
+  "facing=up,powered=true,waterlogged=true": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=up,powered=true,waterlogged=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=up,powered=false,waterlogged=true": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=up,powered=false,waterlogged=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=down,powered=true,waterlogged=true": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=down,powered=true,waterlogged=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=down,powered=false,waterlogged=true": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  },
+  "facing=down,powered=false,waterlogged=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.0,
+      0.625
+    ]
+  }
+}

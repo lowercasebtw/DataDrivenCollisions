@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "dynshapes",
+	"version": "${version}",
+	"name": "DynShapes",
+	"description": "",
+	"authors": [
+		"lowercasebtw"
+	],
+	"license": "MIT",
+	"icon": "assets/dynshapes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.legacy.visuals.dynshapes.DynamicShapes"
+		]
+	},
+	"mixins": [
+		"dynshapes.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"fabric-api": "*"
+	}
+}

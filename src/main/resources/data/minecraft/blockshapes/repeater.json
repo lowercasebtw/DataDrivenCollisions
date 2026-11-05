@@ -1,0 +1,770 @@
+{
+  "delay=1,facing=north,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=north,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=north,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=north,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=south,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=south,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=south,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=south,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=west,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=west,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=west,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=west,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=east,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=east,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=east,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=1,facing=east,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=north,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=north,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=north,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=north,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=south,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=south,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=south,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=south,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=west,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=west,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=west,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=west,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=east,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=east,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=east,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=2,facing=east,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=north,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=north,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=north,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=north,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=south,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=south,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=south,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=south,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=west,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=west,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=west,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=west,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=east,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=east,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=east,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=3,facing=east,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=north,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=north,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=north,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=north,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=south,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=south,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=south,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=south,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=west,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=west,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=west,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=west,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=east,locked=true,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=east,locked=true,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=east,locked=false,powered=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  },
+  "delay=4,facing=east,locked=false,powered=false": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.125,
+      1.0
+    ]
+  }
+}

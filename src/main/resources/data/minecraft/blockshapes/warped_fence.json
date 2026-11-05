@@ -1,0 +1,686 @@
+{
+  "east=true,north=true,south=true,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=true,north=true,south=true,waterlogged=true,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=true,south=true,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=true,north=true,south=true,waterlogged=false,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=true,south=false,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    }
+  ],
+  "east=true,north=true,south=false,waterlogged=true,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=true,south=false,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    }
+  ],
+  "east=true,north=true,south=false,waterlogged=false,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=false,south=true,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=true,north=false,south=true,waterlogged=true,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=false,south=true,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=true,north=false,south=true,waterlogged=false,west=false": [
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.625,
+        0.0,
+        0.375
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.625
+      ]
+    }
+  ],
+  "east=true,north=false,south=false,waterlogged=true,west=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.375
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.625
+    ]
+  },
+  "east=true,north=false,south=false,waterlogged=true,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.625
+    ]
+  },
+  "east=true,north=false,south=false,waterlogged=false,west=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.375
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.625
+    ]
+  },
+  "east=true,north=false,south=false,waterlogged=false,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=true,south=true,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=false,north=true,south=true,waterlogged=true,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.625,
+      1.5,
+      1.0
+    ]
+  },
+  "east=false,north=true,south=true,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=false,north=true,south=true,waterlogged=false,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.625,
+      1.5,
+      1.0
+    ]
+  },
+  "east=false,north=true,south=false,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    }
+  ],
+  "east=false,north=true,south=false,waterlogged=true,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=true,south=false,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.375
+      ]
+    }
+  ],
+  "east=false,north=true,south=false,waterlogged=false,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=false,south=true,waterlogged=true,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=false,north=false,south=true,waterlogged=true,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      1.0
+    ]
+  },
+  "east=false,north=false,south=true,waterlogged=false,west=true": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.375
+      ],
+      "max": [
+        0.625,
+        1.5,
+        0.625
+      ]
+    },
+    {
+      "min": [
+        0.375,
+        0.0,
+        0.625
+      ],
+      "max": [
+        0.625,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=false,north=false,south=true,waterlogged=false,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      1.0
+    ]
+  },
+  "east=false,north=false,south=false,waterlogged=true,west=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=false,south=false,waterlogged=true,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=false,south=false,waterlogged=false,west=true": {
+    "min": [
+      0.0,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  },
+  "east=false,north=false,south=false,waterlogged=false,west=false": {
+    "min": [
+      0.375,
+      0.0,
+      0.375
+    ],
+    "max": [
+      0.625,
+      1.5,
+      0.625
+    ]
+  }
+}

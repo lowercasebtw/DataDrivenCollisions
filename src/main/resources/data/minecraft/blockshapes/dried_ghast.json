@@ -1,0 +1,386 @@
+{
+  "facing=north,hydration=0,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=0,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=1,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=1,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=2,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=2,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=3,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=north,hydration=3,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=0,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=0,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=1,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=1,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=2,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=2,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=3,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=south,hydration=3,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=0,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=0,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=1,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=1,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=2,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=2,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=3,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=west,hydration=3,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=0,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=0,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=1,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=1,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=2,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=2,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=3,waterlogged=true": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  },
+  "facing=east,hydration=3,waterlogged=false": {
+    "min": [
+      0.1875,
+      0.0,
+      0.1875
+    ],
+    "max": [
+      0.8125,
+      0.625,
+      0.8125
+    ]
+  }
+}

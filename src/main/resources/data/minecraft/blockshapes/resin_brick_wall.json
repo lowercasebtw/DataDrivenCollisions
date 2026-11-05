@@ -1,0 +1,12170 @@
+{
+  "east=none,north=none,south=none,up=true,waterlogged=true,west=none": {
+    "min": [
+      0.25,
+      0.0,
+      0.25
+    ],
+    "max": [
+      0.75,
+      1.5,
+      0.75
+    ]
+  },
+  "east=none,north=none,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=none,north=none,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=none,north=none,south=none,up=true,waterlogged=false,west=none": {
+    "min": [
+      0.25,
+      0.0,
+      0.25
+    ],
+    "max": [
+      0.75,
+      1.5,
+      0.75
+    ]
+  },
+  "east=none,north=none,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=none,north=none,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=none,north=none,south=none,up=false,waterlogged=true,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=none,south=none,up=false,waterlogged=true,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=none,south=none,up=false,waterlogged=false,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=none,south=none,up=false,waterlogged=false,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=none,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=none,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=none,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=none,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=none,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=none,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=low,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=low,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=low,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=low,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=low,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=low,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=low,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=low,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=tall,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=none,north=tall,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=tall,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=tall,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=tall,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=tall,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.6875,
+      1.5,
+      1.0
+    ]
+  },
+  "east=none,north=tall,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=none,north=tall,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=low,north=none,south=none,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=none,up=false,waterlogged=true,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=none,up=false,waterlogged=true,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=none,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=none,up=false,waterlogged=false,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=none,up=false,waterlogged=false,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=low,north=none,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=none,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=low,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=low,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=tall,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=low,north=tall,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    }
+  ],
+  "east=tall,north=none,south=none,up=false,waterlogged=true,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=none,up=false,waterlogged=true,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=none,up=false,waterlogged=true,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=none,up=false,waterlogged=false,west=none": {
+    "min": [
+      0.3125,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=none,up=false,waterlogged=false,west=low": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=none,up=false,waterlogged=false,west=tall": {
+    "min": [
+      0.0,
+      0.0,
+      0.3125
+    ],
+    "max": [
+      1.0,
+      1.5,
+      0.6875
+    ]
+  },
+  "east=tall,north=none,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=none,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=low,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=low,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=none,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=low,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.75,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.25
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.25,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.75,
+        1.5,
+        0.75
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.25
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.75
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none": [
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.6875,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ],
+  "east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.3125
+      ],
+      "max": [
+        1.0,
+        1.5,
+        0.6875
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.0
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        0.3125
+      ]
+    },
+    {
+      "min": [
+        0.3125,
+        0.0,
+        0.6875
+      ],
+      "max": [
+        0.6875,
+        1.5,
+        1.0
+      ]
+    }
+  ]
+}

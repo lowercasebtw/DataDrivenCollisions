@@ -1,0 +1,146 @@
+{
+  "extended=true,facing=north": {
+    "min": [
+      0.0,
+      0.0,
+      0.25
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=true,facing=east": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      0.75,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=true,facing=south": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.75
+    ]
+  },
+  "extended=true,facing=west": {
+    "min": [
+      0.25,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=true,facing=up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.75,
+      1.0
+    ]
+  },
+  "extended=true,facing=down": {
+    "min": [
+      0.0,
+      0.25,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=north": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=east": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=south": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=west": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=up": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "extended=false,facing=down": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}

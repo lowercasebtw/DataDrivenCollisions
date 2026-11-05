@@ -1,0 +1,306 @@
+{
+  "facing=north,occupied=true,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        0.5
+      ]
+    }
+  ],
+  "facing=north,occupied=true,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=north,occupied=false,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        0.5
+      ]
+    }
+  ],
+  "facing=north,occupied=false,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=south,occupied=true,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.5
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=south,occupied=true,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=south,occupied=false,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.5
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=south,occupied=false,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=west,occupied=true,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.0
+      ],
+      "max": [
+        0.5,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=west,occupied=true,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=west,occupied=false,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.0,
+        0.25,
+        0.0
+      ],
+      "max": [
+        0.5,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=west,occupied=false,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=east,occupied=true,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.5,
+        0.25,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=east,occupied=true,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  },
+  "facing=east,occupied=false,part=head": [
+    {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.25,
+        1.0
+      ]
+    },
+    {
+      "min": [
+        0.5,
+        0.25,
+        0.0
+      ],
+      "max": [
+        1.0,
+        0.3125,
+        1.0
+      ]
+    }
+  ],
+  "facing=east,occupied=false,part=foot": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.25,
+      1.0
+    ]
+  }
+}
